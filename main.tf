@@ -8,6 +8,6 @@ resource "aws_instance" "my_ec2_new" {
  
 
   tags = {
-    Name = "ec2_11"
+    Name = "ec2_111"
   }
 }
